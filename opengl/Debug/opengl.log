@@ -1,0 +1,13 @@
+﻿  main.cpp
+c:\учёба\7 семестр\opengl\лабы\lab6vs\opengl\main.cpp(248): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\учёба\7 семестр\opengl\лабы\lab6vs\opengl\main.cpp(320): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+c:\учёба\7 семестр\opengl\лабы\lab6vs\opengl\main.cpp(321): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+c:\учёба\7 семестр\opengl\лабы\lab6vs\opengl\main.cpp(323): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+c:\учёба\7 семестр\opengl\лабы\lab6vs\opengl\main.cpp(324): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+c:\учёба\7 семестр\opengl\лабы\lab6vs\opengl\main.cpp(350): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+c:\учёба\7 семестр\opengl\лабы\lab6vs\opengl\main.cpp(377): warning C4305: инициализация: усечение из "double" в "GLfloat"
+soil2-debug.lib(etc1_utils.obj) : warning LNK4099: "soil2-debug.pdb" PDB не найден с "soil2-debug.lib(etc1_utils.obj)" или на "C:\Учёба\7 семестр\OpenGL\лабы\lab6vs\Debug\soil2-debug.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+soil2-debug.lib(image_DXT.obj) : warning LNK4099: "soil2-debug.pdb" PDB не найден с "soil2-debug.lib(image_DXT.obj)" или на "C:\Учёба\7 семестр\OpenGL\лабы\lab6vs\Debug\soil2-debug.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+soil2-debug.lib(image_helper.obj) : warning LNK4099: "soil2-debug.pdb" PDB не найден с "soil2-debug.lib(image_helper.obj)" или на "C:\Учёба\7 семестр\OpenGL\лабы\lab6vs\Debug\soil2-debug.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+soil2-debug.lib(SOIL2.obj) : warning LNK4099: "soil2-debug.pdb" PDB не найден с "soil2-debug.lib(SOIL2.obj)" или на "C:\Учёба\7 семестр\OpenGL\лабы\lab6vs\Debug\soil2-debug.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+  opengl.vcxproj -> C:\Учёба\7 семестр\OpenGL\лабы\lab6vs\Debug\opengl.exe
